@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SalahTimes/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/SalahTimes/static/js/main.5589553f.chunk.js",
+    "main.js.map": "/SalahTimes/static/js/main.5589553f.chunk.js.map",
+    "runtime-main.js": "/SalahTimes/static/js/runtime-main.d1dab215.js",
+    "runtime-main.js.map": "/SalahTimes/static/js/runtime-main.d1dab215.js.map",
+    "static/js/2.a1801555.chunk.js": "/SalahTimes/static/js/2.a1801555.chunk.js",
+    "static/js/2.a1801555.chunk.js.map": "/SalahTimes/static/js/2.a1801555.chunk.js.map",
+    "static/js/3.d5c4d124.chunk.js": "/SalahTimes/static/js/3.d5c4d124.chunk.js",
+    "static/js/3.d5c4d124.chunk.js.map": "/SalahTimes/static/js/3.d5c4d124.chunk.js.map",
+    "index.html": "/SalahTimes/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/SalahTimes/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a1801555.chunk.js.LICENSE.txt": "/SalahTimes/static/js/2.a1801555.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1dab215.js",
+    "static/js/2.a1801555.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5589553f.chunk.js"
+  ]
+}
