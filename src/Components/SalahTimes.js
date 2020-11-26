@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-//import callApi from '../Services/CallApi'
 
 function SalahTimes(props) {
   const [timings, setTimings] = useState({});
@@ -13,17 +12,6 @@ function SalahTimes(props) {
     uri.searchParams.append("annual", "false");
 
     const response = await fetch(uri, { method: "GET" });
-    // .then(res => {
-    //     if(res.ok){
-    //       return res.json();
-    //     }
-    // })
-    // .then(data=>  {
-    //     if(data){
-    //         result = data.data.timings;
-    //     }
-    // });
-    //return result;
     const result = await response.json();
     return result.data.timings;
   }
